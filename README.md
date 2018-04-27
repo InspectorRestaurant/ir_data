@@ -20,3 +20,11 @@ The inspection CSV datafiles are available from the following locations (links w
 
 ### License
 [MIT License](http://opensource.org/licenses/MIT).
+
+### Technologies used
+
+- [Jupyter Datascience Notebook](https://hub.docker.com/r/jupyter/datascience-notebook/)
+
+- [Pandas](https://pandas.pydata.org/)
+
+- [PyMongo](https://api.mongodb.com/python/current/)
